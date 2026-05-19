@@ -1,0 +1,113 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+*.DS_Store?
+.project
+.settings/
+.metadata
+.metadata/
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+*.rej
+*~
+
+# Node / JavaScript
+node_modules/
+package-lock.json
+
+# IDE / Editor directories
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.venv/
+venv/
+ENV/
+env/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+.dart_tool/
+/build/
+/coverage/
+
+# Generated plugin registrant files
+**/GeneratedPluginRegistrant.*
+
+# iOS
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Pods/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner/*.g.dart
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Podfile.lock
+**/ios/Podfile.
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/android/build/
+**/android/local.properties
+**/android/**/local.properties
+**/android/captures/
+**/android/app/*.keystore
+**/android/app/*.jks
+
+# macOS
+**/macos/Build/
+**/macos/Flutter/Flutter.framework
+**/macos/Flutter/Flutter.podspec
+**/macos/Pods/
+**/macos/Runner/GeneratedPluginRegistrant.*
+
+# Linux
+**/linux/flutter/ephemeral/
+**/linux/build/
+
+# Windows
+**/windows/flutter/ephemeral/
+**/windows/runner/Release/
+**/windows/runner/Debug/
+**/windows/runner/*.pdb
+**/windows/runner/*.exe
+
+# Web
+**/web/main.dart.js
+**/web/*.js
+**/web/*.js.map
+**/web/*.dart.js
+
+# Miscellaneous generated files
+**/doc/api/
+app.*.symbols
+app.*.map.json
+
+# Ignore local environment and build artifacts
+/local.properties
+/gradle.properties
+/.gradle/
+
+# Keep this repository clean from generated build outputs
+/build/
+**/build/
+
+# Firebase temporary files
+**/firebase-debug.log
+
+# Optional: uncomment if you want to ignore VS Code settings
+# .vscode/

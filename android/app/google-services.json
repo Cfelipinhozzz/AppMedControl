@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198673168561",
+    "project_id": "appflutter-483b8",
+    "storage_bucket": "appflutter-483b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198673168561:android:ab18b2d19403d6d8c20a90",
+        "android_client_info": {
+          "package_name": "com.example.medcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cv324DM8thzlbDNaPRxhKUnlRxPlTGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
